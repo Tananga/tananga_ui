@@ -27,7 +27,7 @@ class ExampleHomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: const Text('UI Package Demo')),
       body: Center(
-        child: TanangaUI.buttons.testButton(
+        child: TanangaUI.buttons.simpleButton(
           text: "test",
           onPressed: () {
             if (kDebugMode) {

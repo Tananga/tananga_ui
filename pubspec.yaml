@@ -1,7 +1,8 @@
 name: tananga_ui
-description: "A new Flutter package project."
+description: "UI package from Tananga"
 version: 0.0.1
-homepage:
+homepage: https://tananga.com
+repository: https://github.com/Tananga/tananga_ui
 
 environment:
   sdk: ^3.8.1
